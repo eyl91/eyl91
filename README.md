@@ -1,4 +1,4 @@
-![Elma Gonzalez Banner](https://res.cloudinary.com/eyl91/image/upload/v1594827977/banner_wlnoml.png)
+![Elma Gonzalez Banner](https://res.cloudinary.com/eyl91/image/upload/v1639422554/github-lead_lkvq30.png)
 
 <!--
 **eyl91/eyl91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
